@@ -1,0 +1,72 @@
+safeMath.sol
+bzz-raw://1150e3fbf3305edb97a8c445b79f8bee86b50df99284555e38efd074f6b8b1f9
+
+
+metadata.json
+bzz-raw://dcad32030325de04e49343362592f5e3449bb5bed2112542c1a3dcb667b1d297
+
+Metadata and sources of "migrations" were published successfully.
+migration.sol : 
+bzz-raw://8384aa0715189d6be0fc9d3067b5053e0b238cbc8f8563ec269673105a6503a1
+metadata.json : 
+bzz-raw://fcae5a43726fbf46b134b395d1e1e3ead491c8ba8725c623acd0e4ca16ee7935
+
+Metadata and sources of "roles" were published successfully.
+roles.sol : 
+bzz-raw://61a33217f8878a369a07a447081de7c6737fe55a48cfd081e03ae5a49ef2bc0d
+metadata.json : 
+bzz-raw://82b0567b56900f3dcbd4b1f38b784b2383136a0d1164cf29170b93ca21aa89b4
+
+Metadata and sources of "safemath" were published successfully.
+safeMath.sol : 
+bzz-raw://1150e3fbf3305edb97a8c445b79f8bee86b50df99284555e38efd074f6b8b1f9
+metadata.json : 
+bzz-raw://dcad32030325de04e49343362592f5e3449bb5bed2112542c1a3dcb667b1d297
+
+
+Metadata and sources of "withdrawal" were published successfully.
+safeMath.sol : 
+bzz-raw://1150e3fbf3305edb97a8c445b79f8bee86b50df99284555e38efd074f6b8b1f9
+migration.sol : 
+bzz-raw://8384aa0715189d6be0fc9d3067b5053e0b238cbc8f8563ec269673105a6503a1
+transaction.sol : 
+bzz-raw://8e6e260f5834d5dd9fc8f69674e9e3d51d382ea4097094440b79ba8dcb7a59f8
+metadata.json : 
+bzz-raw://92f7cbe7d23202e95cd25bd176d8ffe8ddc9d592a0a17dc1461749167df656ab
+
+Metadata and sources of "trc20" were published successfully.
+safeMath.sol : 
+bzz-raw://1150e3fbf3305edb97a8c445b79f8bee86b50df99284555e38efd074f6b8b1f9
+math.sol : 
+bzz-raw://2d54cb73df9893ba7a3d8f5311bfdb95a1864e2d2310315e63bd8cb80a54005e
+trc20.sol : 
+bzz-raw://b7b69aa0129c0591e68337a4e4051f159de6535e352703ce03d71fe35b145874
+metadata.json : 
+bzz-raw://ea5baf76d2cd23c1ae0bcb9f8ca882761f2b1ad543a6e91a3be104725cc99abd
+
+Metadata and sources of "assemblyerror" were published successfully.
+assembely.sol : 
+bzz-raw://0f27e67738a49684a8a25661bd68a37234a1b4ddcfaa337617b92830136513a9
+metadata.json : 
+bzz-raw://853decd1971fc47e0e2aaaf26ac14076c17b46d84c7a78277975d625d560644c
+
+{
+	"block.chainid": "3333",
+	"block.coinbase": "0x0000000000000000000000000000000000000000",
+	"block.difficulty": "0",
+	"block.gaslimit": "3000000",
+	"block.number": "5",
+	"block.timestamp": "1703774537",
+	"msg.sender": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2",
+	"msg.sig": "0x60806040",
+	"msg.value": "1000000000000000000 Wei",
+	"tx.origin": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2",
+	"block.basefee": "1 Wei (1)"
+}
+
+0x39aaec2e0cd3465dc8c1bc082a98ed4072ebf97d53821fd5cbfe7445df219a54
+72c2d20b-1717-4812-95f9-dc891903ca59
+
+
+Contract = 0x2A71a5CC19dB86937a542C20c236A837Eae69DBD
+geth
