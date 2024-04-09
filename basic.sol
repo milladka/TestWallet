@@ -51,4 +51,22 @@ contract BasicToken is ERC20Basic {
     function balanceOf(address _owner) public view returns (uint256 balance) {
         return balances[_owner];
     }
+
+    function TransferFrom(
+        address from,
+        address to,
+        unit256 value
+    ) returns (bool success) {
+         
+        if (frozenAccount[msg.sender]) return false;
+        if (balances[from] > value) return false;
+        if (allowed[from][msg.sender] >= value) return false;
+        if( balances[to] + value < balances[to]) return false;
+
+        balances[from] -= value;
+        aloowed[from][msg.sender] -= value;
+        balances[to] += value;
+
+        Transfer(from, to, value) return true;
+    }
 }
